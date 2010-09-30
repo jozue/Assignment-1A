@@ -23,9 +23,9 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					341,
+					668,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -40,16 +40,24 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 306715083;
-			PBXWorkspaceStateSaveDate = 306715083;
+			PBXPerProjectTemplateStateSaveDate = 307306954;
+			PBXWorkspaceStateSaveDate = 307306954;
 		};
 		perUserProjectItems = {
-			E699F22E12481D7100E3EA5C /* PBXBookmark */ = E699F22E12481D7100E3EA5C /* PBXBookmark */;
-			E699F22F12481D7100E3EA5C /* PBXBookmark */ = E699F22F12481D7100E3EA5C /* PBXBookmark */;
+			E6120E3E12507EC400283514 /* PBXBookmark */ = E6120E3E12507EC400283514 /* PBXBookmark */;
+			E65B849B125129B2005AB416 /* PBXBookmark */ = E65B849B125129B2005AB416 /* PBXBookmark */;
 		};
 		sourceControlManager = E699F222124819DA00E3EA5C /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	E6120E3E12507EC400283514 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E699F22612481B8200E3EA5C /* longhorn-logo.jpg */;
+	};
+	E65B849B125129B2005AB416 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E699F22612481B8200E3EA5C /* longhorn-logo.jpg */;
 	};
 	E699F212124819CB00E3EA5C /* Assignment 1A */ = {
 		isa = PBXExecutable;
@@ -92,13 +100,5 @@
 	E699F223124819DA00E3EA5C /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
-	};
-	E699F22E12481D7100E3EA5C /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = E699F22612481B8200E3EA5C /* longhorn-logo.jpg */;
-	};
-	E699F22F12481D7100E3EA5C /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = E699F22612481B8200E3EA5C /* longhorn-logo.jpg */;
 	};
 }
